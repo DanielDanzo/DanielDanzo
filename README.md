@@ -1,6 +1,8 @@
-#Hi, I'm Daniel 
+#Hi, I'm Daniel.
 
-The only thing I prioritise:
+Everyday is an opportunity to learn and do what I love.
+
+#Interests:
   -App Development
   -Web Development
   -Cyber Security
