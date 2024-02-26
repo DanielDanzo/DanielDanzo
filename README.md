@@ -1,8 +1,8 @@
-#Hi, I'm Daniel.
+# Hi, I'm Daniel.
 
 Everyday is an opportunity to learn and do what I love.
 
-#Interests:
+# Interests:
   -App Development
   -Web Development
   -Cyber Security
